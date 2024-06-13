@@ -1,0 +1,2 @@
+# Novitech-Internship
+Artifical Intelligence
